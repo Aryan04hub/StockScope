@@ -1,0 +1,31 @@
+# Data collection
+yfinance==1.8.0
+
+# Data processing
+pandas==3.1.1
+numpy==2.5.5
+
+# Data visualization
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+
+# Machine learning
+scikit-learn==1.9.1
+
+# Dashboard
+streamlit==1.67.0
+
+# Database
+SQLAlchemy==2.1.9
+PyMySQL==1.2.4
+
+# Environment configuration
+python-dotenv==1.2.4
+
+# Testing
+pytest==9.2.0
+
+# Notebooks
+jupyterlab==4.6.6
+ipykernel==7.4.0
